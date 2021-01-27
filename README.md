@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Algorithms, Machine Learning, and Data Science.
-- 🔭 Problem-Solving skills & Desing Thinking experience.
+- 🔭 &nbsp; Problem-Solving skills & Desing Thinking experience.
 
 <h3>🛠 Tech Stack</h3>
 
