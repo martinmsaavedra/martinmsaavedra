@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Python | C | Bash
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Emacs | Visual Studio Code
+- 🔎 &nbsp; SQL | MySQL
 <!--- 🛢 &nbsp; MySQL -->
 
 <br>
