@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | NodeJS | React
 - 🔧 &nbsp; Emacs | Visual Studio Code
-- 🔎 &nbsp; SQL | MySQL
+- 🔎 &nbsp; SQL | MySQL | SQLalchemy
 <!--- 🛢 &nbsp; MySQL -->
 
 <br>
